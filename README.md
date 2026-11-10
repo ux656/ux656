@@ -48,8 +48,6 @@
 <div align="center">
 
 [![Main Account](https://img.shields.io/badge/Main-VANITAS-8A2BE2?style=for-the-badge&logo=github)](https://github.com/sovereignempirex-ux)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/97431298191)
-
-</div>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/P7_p7)</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=100&section=footer" width="100%" />
